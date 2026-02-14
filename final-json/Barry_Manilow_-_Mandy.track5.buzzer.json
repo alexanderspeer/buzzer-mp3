@@ -1,0 +1,1055 @@
+{
+  "source_midi": "Barry_Manilow_-_Mandy.mid",
+  "ticks_per_beat": 120,
+  "tempo_bpm": 104,
+  "tempo_changes": [
+    {
+      "tick": 0,
+      "tempo_us": 576923,
+      "bpm": 104
+    }
+  ],
+  "selected_track_index": 4,
+  "selected_track_name": "Melody",
+  "track_1based": 5,
+  "max_rest_ms": 3000,
+  "gate_ratio": 0.9,
+  "loudness_levels": 3,
+  "note_range": {
+    "min_note": 48,
+    "max_note": 96
+  },
+  "events": [
+    {
+      "start_ms": 0,
+      "duration_ms": 264,
+      "gate_ms": 238,
+      "note": 65,
+      "frequency_hz": 349,
+      "loudness_level": 3,
+      "velocity": 97
+    },
+    {
+      "start_ms": 264,
+      "duration_ms": 322,
+      "gate_ms": 290,
+      "note": 67,
+      "frequency_hz": 392,
+      "loudness_level": 2,
+      "velocity": 81
+    },
+    {
+      "start_ms": 586,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 70,
+      "frequency_hz": 466,
+      "loudness_level": 2,
+      "velocity": 83
+    },
+    {
+      "start_ms": 874,
+      "duration_ms": 269,
+      "gate_ms": 242,
+      "note": 67,
+      "frequency_hz": 392,
+      "loudness_level": 2,
+      "velocity": 62
+    },
+    {
+      "start_ms": 1143,
+      "duration_ms": 577,
+      "gate_ms": 519,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 97
+    },
+    {
+      "start_ms": 1720,
+      "duration_ms": 308,
+      "gate_ms": 277,
+      "note": 67,
+      "frequency_hz": 392,
+      "loudness_level": 2,
+      "velocity": 81
+    },
+    {
+      "start_ms": 2028,
+      "duration_ms": 2538,
+      "gate_ms": 2285,
+      "note": 65,
+      "frequency_hz": 349,
+      "loudness_level": 2,
+      "velocity": 75
+    },
+    {
+      "start_ms": 4566,
+      "duration_ms": 303,
+      "gate_ms": 273,
+      "note": 65,
+      "frequency_hz": 349,
+      "loudness_level": 3,
+      "velocity": 109
+    },
+    {
+      "start_ms": 4869,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 67,
+      "frequency_hz": 392,
+      "loudness_level": 3,
+      "velocity": 97
+    },
+    {
+      "start_ms": 5157,
+      "duration_ms": 298,
+      "gate_ms": 268,
+      "note": 70,
+      "frequency_hz": 466,
+      "loudness_level": 3,
+      "velocity": 91
+    },
+    {
+      "start_ms": 5455,
+      "duration_ms": 264,
+      "gate_ms": 238,
+      "note": 67,
+      "frequency_hz": 392,
+      "loudness_level": 2,
+      "velocity": 66
+    },
+    {
+      "start_ms": 5719,
+      "duration_ms": 562,
+      "gate_ms": 506,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 97
+    },
+    {
+      "start_ms": 6281,
+      "duration_ms": 312,
+      "gate_ms": 281,
+      "note": 67,
+      "frequency_hz": 392,
+      "loudness_level": 2,
+      "velocity": 70
+    },
+    {
+      "start_ms": 6593,
+      "duration_ms": 2572,
+      "gate_ms": 2315,
+      "note": 65,
+      "frequency_hz": 349,
+      "loudness_level": 2,
+      "velocity": 81
+    },
+    {
+      "start_ms": 9165,
+      "duration_ms": 418,
+      "gate_ms": 376,
+      "note": 75,
+      "frequency_hz": 622,
+      "loudness_level": 3,
+      "velocity": 100
+    },
+    {
+      "start_ms": 9583,
+      "duration_ms": 361,
+      "gate_ms": 325,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 2,
+      "velocity": 70
+    },
+    {
+      "start_ms": 9944,
+      "duration_ms": 168,
+      "gate_ms": 151,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 2,
+      "velocity": 81
+    },
+    {
+      "start_ms": 10112,
+      "duration_ms": 236,
+      "gate_ms": 212,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 97
+    },
+    {
+      "start_ms": 10348,
+      "duration_ms": 846,
+      "gate_ms": 762,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 109
+    },
+    {
+      "start_ms": 11194,
+      "duration_ms": 303,
+      "gate_ms": 273,
+      "note": 67,
+      "frequency_hz": 392,
+      "loudness_level": 2,
+      "velocity": 75
+    },
+    {
+      "start_ms": 11497,
+      "duration_ms": 312,
+      "gate_ms": 281,
+      "note": 75,
+      "frequency_hz": 622,
+      "loudness_level": 3,
+      "velocity": 113
+    },
+    {
+      "start_ms": 11809,
+      "duration_ms": 553,
+      "gate_ms": 498,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 12362,
+      "duration_ms": 1418,
+      "gate_ms": 1276,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 13780,
+      "duration_ms": 370,
+      "gate_ms": 333,
+      "note": 75,
+      "frequency_hz": 622,
+      "loudness_level": 3,
+      "velocity": 100
+    },
+    {
+      "start_ms": 14150,
+      "duration_ms": 534,
+      "gate_ms": 480,
+      "note": 77,
+      "frequency_hz": 698,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 14684,
+      "duration_ms": 130,
+      "gate_ms": 117,
+      "note": 75,
+      "frequency_hz": 622,
+      "loudness_level": 2,
+      "velocity": 77
+    },
+    {
+      "start_ms": 14814,
+      "duration_ms": 125,
+      "gate_ms": 112,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 2,
+      "velocity": 55
+    },
+    {
+      "start_ms": 14939,
+      "duration_ms": 1202,
+      "gate_ms": 1082,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 2,
+      "velocity": 81
+    },
+    {
+      "start_ms": 16141,
+      "duration_ms": 327,
+      "gate_ms": 294,
+      "note": 75,
+      "frequency_hz": 622,
+      "loudness_level": 3,
+      "velocity": 100
+    },
+    {
+      "start_ms": 16468,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 2,
+      "velocity": 52
+    },
+    {
+      "start_ms": 16756,
+      "duration_ms": 308,
+      "gate_ms": 277,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 2,
+      "velocity": 70
+    },
+    {
+      "start_ms": 17064,
+      "duration_ms": 519,
+      "gate_ms": 467,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 2,
+      "velocity": 81
+    },
+    {
+      "start_ms": 17583,
+      "duration_ms": 303,
+      "gate_ms": 273,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 2,
+      "velocity": 75
+    },
+    {
+      "start_ms": 17886,
+      "duration_ms": 284,
+      "gate_ms": 255,
+      "note": 70,
+      "frequency_hz": 466,
+      "loudness_level": 2,
+      "velocity": 71
+    },
+    {
+      "start_ms": 18170,
+      "duration_ms": 279,
+      "gate_ms": 251,
+      "note": 67,
+      "frequency_hz": 392,
+      "loudness_level": 2,
+      "velocity": 75
+    },
+    {
+      "start_ms": 18449,
+      "duration_ms": 279,
+      "gate_ms": 251,
+      "note": 65,
+      "frequency_hz": 349,
+      "loudness_level": 3,
+      "velocity": 97
+    },
+    {
+      "start_ms": 18728,
+      "duration_ms": 284,
+      "gate_ms": 255,
+      "note": 67,
+      "frequency_hz": 392,
+      "loudness_level": 3,
+      "velocity": 97
+    },
+    {
+      "start_ms": 19012,
+      "duration_ms": 298,
+      "gate_ms": 268,
+      "note": 70,
+      "frequency_hz": 466,
+      "loudness_level": 3,
+      "velocity": 100
+    },
+    {
+      "start_ms": 19310,
+      "duration_ms": 255,
+      "gate_ms": 229,
+      "note": 67,
+      "frequency_hz": 392,
+      "loudness_level": 2,
+      "velocity": 58
+    },
+    {
+      "start_ms": 19565,
+      "duration_ms": 611,
+      "gate_ms": 550,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 97
+    },
+    {
+      "start_ms": 20176,
+      "duration_ms": 284,
+      "gate_ms": 255,
+      "note": 67,
+      "frequency_hz": 392,
+      "loudness_level": 2,
+      "velocity": 70
+    },
+    {
+      "start_ms": 20460,
+      "duration_ms": 2615,
+      "gate_ms": 2354,
+      "note": 65,
+      "frequency_hz": 349,
+      "loudness_level": 3,
+      "velocity": 97
+    },
+    {
+      "start_ms": 23075,
+      "duration_ms": 269,
+      "gate_ms": 242,
+      "note": 65,
+      "frequency_hz": 349,
+      "loudness_level": 3,
+      "velocity": 117
+    },
+    {
+      "start_ms": 23344,
+      "duration_ms": 312,
+      "gate_ms": 281,
+      "note": 67,
+      "frequency_hz": 392,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 23656,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 70,
+      "frequency_hz": 466,
+      "loudness_level": 3,
+      "velocity": 100
+    },
+    {
+      "start_ms": 23944,
+      "duration_ms": 298,
+      "gate_ms": 268,
+      "note": 67,
+      "frequency_hz": 392,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 24242,
+      "duration_ms": 87,
+      "gate_ms": 78,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 24329,
+      "duration_ms": 466,
+      "gate_ms": 420,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 2,
+      "velocity": 55
+    },
+    {
+      "start_ms": 24795,
+      "duration_ms": 322,
+      "gate_ms": 290,
+      "note": 67,
+      "frequency_hz": 392,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 25117,
+      "duration_ms": 2572,
+      "gate_ms": 2315,
+      "note": 65,
+      "frequency_hz": 349,
+      "loudness_level": 3,
+      "velocity": 109
+    },
+    {
+      "start_ms": 27689,
+      "duration_ms": 413,
+      "gate_ms": 372,
+      "note": 75,
+      "frequency_hz": 622,
+      "loudness_level": 3,
+      "velocity": 100
+    },
+    {
+      "start_ms": 28102,
+      "duration_ms": 356,
+      "gate_ms": 320,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 28458,
+      "duration_ms": 144,
+      "gate_ms": 130,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 28602,
+      "duration_ms": 221,
+      "gate_ms": 199,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 28823,
+      "duration_ms": 846,
+      "gate_ms": 762,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 109
+    },
+    {
+      "start_ms": 29669,
+      "duration_ms": 279,
+      "gate_ms": 251,
+      "note": 67,
+      "frequency_hz": 392,
+      "loudness_level": 3,
+      "velocity": 109
+    },
+    {
+      "start_ms": 29948,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 109
+    },
+    {
+      "start_ms": 30236,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 75,
+      "frequency_hz": 622,
+      "loudness_level": 2,
+      "velocity": 77
+    },
+    {
+      "start_ms": 30524,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 30812,
+      "duration_ms": 1192,
+      "gate_ms": 1073,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 117
+    },
+    {
+      "start_ms": 32004,
+      "duration_ms": 591,
+      "gate_ms": 532,
+      "note": 75,
+      "frequency_hz": 622,
+      "loudness_level": 3,
+      "velocity": 117
+    },
+    {
+      "start_ms": 32595,
+      "duration_ms": 558,
+      "gate_ms": 502,
+      "note": 77,
+      "frequency_hz": 698,
+      "loudness_level": 3,
+      "velocity": 97
+    },
+    {
+      "start_ms": 33153,
+      "duration_ms": 144,
+      "gate_ms": 130,
+      "note": 75,
+      "frequency_hz": 622,
+      "loudness_level": 3,
+      "velocity": 91
+    },
+    {
+      "start_ms": 33297,
+      "duration_ms": 135,
+      "gate_ms": 121,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 2,
+      "velocity": 70
+    },
+    {
+      "start_ms": 33432,
+      "duration_ms": 856,
+      "gate_ms": 770,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 34288,
+      "duration_ms": 308,
+      "gate_ms": 277,
+      "note": 67,
+      "frequency_hz": 392,
+      "loudness_level": 3,
+      "velocity": 97
+    },
+    {
+      "start_ms": 34596,
+      "duration_ms": 303,
+      "gate_ms": 273,
+      "note": 75,
+      "frequency_hz": 622,
+      "loudness_level": 3,
+      "velocity": 117
+    },
+    {
+      "start_ms": 34899,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 2,
+      "velocity": 81
+    },
+    {
+      "start_ms": 35187,
+      "duration_ms": 298,
+      "gate_ms": 268,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 97
+    },
+    {
+      "start_ms": 35485,
+      "duration_ms": 543,
+      "gate_ms": 489,
+      "note": 75,
+      "frequency_hz": 622,
+      "loudness_level": 3,
+      "velocity": 113
+    },
+    {
+      "start_ms": 36028,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 77,
+      "frequency_hz": 698,
+      "loudness_level": 3,
+      "velocity": 97
+    },
+    {
+      "start_ms": 36316,
+      "duration_ms": 298,
+      "gate_ms": 268,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 109
+    },
+    {
+      "start_ms": 36614,
+      "duration_ms": 601,
+      "gate_ms": 541,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 109
+    },
+    {
+      "start_ms": 37215,
+      "duration_ms": 1154,
+      "gate_ms": 1038,
+      "note": 70,
+      "frequency_hz": 466,
+      "loudness_level": 3,
+      "velocity": 100
+    },
+    {
+      "start_ms": 38369,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 65,
+      "frequency_hz": 349,
+      "loudness_level": 3,
+      "velocity": 109
+    },
+    {
+      "start_ms": 38657,
+      "duration_ms": 303,
+      "gate_ms": 273,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 117
+    },
+    {
+      "start_ms": 38960,
+      "duration_ms": 615,
+      "gate_ms": 554,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 117
+    },
+    {
+      "start_ms": 39575,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 70,
+      "frequency_hz": 466,
+      "loudness_level": 3,
+      "velocity": 91
+    },
+    {
+      "start_ms": 39863,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 97
+    },
+    {
+      "start_ms": 40151,
+      "duration_ms": 591,
+      "gate_ms": 532,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 117
+    },
+    {
+      "start_ms": 40742,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 70,
+      "frequency_hz": 466,
+      "loudness_level": 3,
+      "velocity": 100
+    },
+    {
+      "start_ms": 41030,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 41318,
+      "duration_ms": 591,
+      "gate_ms": 532,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 97
+    },
+    {
+      "start_ms": 41909,
+      "duration_ms": 1442,
+      "gate_ms": 1298,
+      "note": 65,
+      "frequency_hz": 349,
+      "loudness_level": 3,
+      "velocity": 97
+    },
+    {
+      "start_ms": 43351,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 65,
+      "frequency_hz": 349,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 43639,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 65,
+      "frequency_hz": 349,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 43927,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 75,
+      "frequency_hz": 622,
+      "loudness_level": 3,
+      "velocity": 113
+    },
+    {
+      "start_ms": 44215,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 44503,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 75,
+      "frequency_hz": 622,
+      "loudness_level": 3,
+      "velocity": 113
+    },
+    {
+      "start_ms": 44791,
+      "duration_ms": 577,
+      "gate_ms": 519,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 117
+    },
+    {
+      "start_ms": 45368,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 45656,
+      "duration_ms": 317,
+      "gate_ms": 286,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 109
+    },
+    {
+      "start_ms": 45973,
+      "duration_ms": 625,
+      "gate_ms": 562,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 117
+    },
+    {
+      "start_ms": 46598,
+      "duration_ms": 1168,
+      "gate_ms": 1051,
+      "note": 70,
+      "frequency_hz": 466,
+      "loudness_level": 3,
+      "velocity": 113
+    },
+    {
+      "start_ms": 47766,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 65,
+      "frequency_hz": 349,
+      "loudness_level": 2,
+      "velocity": 75
+    },
+    {
+      "start_ms": 48054,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 117
+    },
+    {
+      "start_ms": 48342,
+      "duration_ms": 582,
+      "gate_ms": 524,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 117
+    },
+    {
+      "start_ms": 48924,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 70,
+      "frequency_hz": 466,
+      "loudness_level": 3,
+      "velocity": 91
+    },
+    {
+      "start_ms": 49212,
+      "duration_ms": 284,
+      "gate_ms": 255,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 109
+    },
+    {
+      "start_ms": 49496,
+      "duration_ms": 5,
+      "rest": true
+    },
+    {
+      "start_ms": 49501,
+      "duration_ms": 620,
+      "gate_ms": 558,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 50121,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 70,
+      "frequency_hz": 466,
+      "loudness_level": 3,
+      "velocity": 113
+    },
+    {
+      "start_ms": 50409,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 117
+    },
+    {
+      "start_ms": 50697,
+      "duration_ms": 577,
+      "gate_ms": 519,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 117
+    },
+    {
+      "start_ms": 51274,
+      "duration_ms": 1442,
+      "gate_ms": 1298,
+      "note": 65,
+      "frequency_hz": 349,
+      "loudness_level": 3,
+      "velocity": 109
+    },
+    {
+      "start_ms": 52716,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 65,
+      "frequency_hz": 349,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 53004,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 65,
+      "frequency_hz": 349,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 53292,
+      "duration_ms": 303,
+      "gate_ms": 273,
+      "note": 75,
+      "frequency_hz": 622,
+      "loudness_level": 3,
+      "velocity": 113
+    },
+    {
+      "start_ms": 53595,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 53883,
+      "duration_ms": 317,
+      "gate_ms": 286,
+      "note": 75,
+      "frequency_hz": 622,
+      "loudness_level": 3,
+      "velocity": 91
+    },
+    {
+      "start_ms": 54200,
+      "duration_ms": 337,
+      "gate_ms": 303,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 2,
+      "velocity": 66
+    },
+    {
+      "start_ms": 54537,
+      "duration_ms": 288,
+      "gate_ms": 260,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 2,
+      "velocity": 70
+    },
+    {
+      "start_ms": 54825,
+      "duration_ms": 577,
+      "gate_ms": 519,
+      "note": 74,
+      "frequency_hz": 587,
+      "loudness_level": 3,
+      "velocity": 109
+    },
+    {
+      "start_ms": 55402,
+      "duration_ms": 577,
+      "gate_ms": 519,
+      "note": 72,
+      "frequency_hz": 523,
+      "loudness_level": 3,
+      "velocity": 89
+    },
+    {
+      "start_ms": 55979,
+      "duration_ms": 8942,
+      "gate_ms": 8048,
+      "note": 70,
+      "frequency_hz": 466,
+      "loudness_level": 3,
+      "velocity": 91
+    }
+  ]
+}
